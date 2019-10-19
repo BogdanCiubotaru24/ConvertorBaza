@@ -1,0 +1,6 @@
+C:\Users\CiubiPC\Source\Repos\ConvertorBaza\ConvertorBaza\obj\Debug\ConvertorBaza.csprojAssemblyReference.cache
+C:\Users\CiubiPC\Source\Repos\ConvertorBaza\ConvertorBaza\bin\Debug\ConvertorBaza.exe.config
+C:\Users\CiubiPC\Source\Repos\ConvertorBaza\ConvertorBaza\bin\Debug\ConvertorBaza.exe
+C:\Users\CiubiPC\Source\Repos\ConvertorBaza\ConvertorBaza\bin\Debug\ConvertorBaza.pdb
+C:\Users\CiubiPC\Source\Repos\ConvertorBaza\ConvertorBaza\obj\Debug\ConvertorBaza.exe
+C:\Users\CiubiPC\Source\Repos\ConvertorBaza\ConvertorBaza\obj\Debug\ConvertorBaza.pdb
