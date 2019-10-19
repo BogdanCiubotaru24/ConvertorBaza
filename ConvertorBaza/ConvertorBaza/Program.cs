@@ -217,7 +217,6 @@ namespace ConvertorBaza1
             Console.WriteLine();
             Console.WriteLine("Numarul dupa conversie este: {0}",NumarFinal);
             Console.WriteLine();
-            Console.ReadLine();
 
         }            
     }
